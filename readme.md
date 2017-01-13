@@ -9,7 +9,7 @@ If you wish to download or install this plugin, you should do so via the offical
 ## Development
 
 1. Ensure you've got Node setup in your development environment along with Gulp (`npm install -g gulp`)
-2. Clone this repository, `git clone git@github.com:Swingline0/woocommerce-cardconnect.git`
+2. Clone this repository, `git clone git@github.com:RexAK/WooCommerceCardConnect.git`
 3. Run `npm install` in the project directory to install development dependencies
 
 ### Gulp Tasks
